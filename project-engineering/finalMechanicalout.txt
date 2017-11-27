@@ -1,0 +1,556 @@
+SCHEDULE FOR MECHANICAL MAJOR, 2nd YEAR STUDENTS:
+Group 1:
+
+Monday:
+
+The course title: Computer Aided Engineering 3.0 
+The lesson type: 1CLb
+The course day in weekend: M
+The Professors are: Yerkin Abdildin, Aldiyar Kakimzhan 
+The time is: 04:00PM-05:50PM
+The location: 6.522 
+The capacity: 45
+
+The course title: Machine Dynamics I 3.0 
+The lesson type: 1L
+The course day in weekend: M
+The Professors are: Evagoras Xydas 
+The time is: 02:00PM-03:50PM
+The location: 3.221(ext.block 
+The capacity: 45
+
+Tuesday:
+
+The course title: Machine Dynamics I 3.0 
+The lesson type: 1Lb
+The course day in weekend: T
+The Professors are: Evagoras Xydas 
+The time is: 02:00PM-03:50PM
+The location: 6.407 
+The capacity: 25
+
+The course title: Machine Dynamics I 3.0 
+The lesson type: 1T
+The course day in weekend: T
+The Professors are: Evagoras Xydas 
+The time is: 09:00AM-10:50AM
+The location: 3.221(ext.block 
+The capacity: 45
+
+The course title: Engineering Mathematics III 3.0 
+The lesson type: 2L
+The course day in weekend: T
+The Professors are: Desmond Adair, Maxim Lu, Alima Tazabekova 
+The time is: 11:00AM-12:50PM
+The location: 3.220(ext.block 
+The capacity: 103
+
+Wednesday:
+
+The course title: Sensors and Actuators 3.0 
+The lesson type: 2Lb
+The course day in weekend: W
+The Professors are: Nazim Mir-Nasiri, Kassen Dautov 
+The time is: 11:00AM-12:50PM
+The location: 6.427 
+The capacity: 21
+
+The course title: Sensors and Actuators 3.0 
+The lesson type: 1L
+The course day in weekend: W
+The Professors are: Nazim Mir-Nasiri, Kassen Dautov 
+The time is: 02:00PM-03:50PM
+The location: 3.220(ext.block 
+The capacity: 105
+
+The course title: Engineering Mathematics III 3.0 
+The lesson type: 5Lb
+The course day in weekend: W
+The Professors are: Desmond Adair, Maxim Lu, Alima Tazabekova 
+The time is: 04:00PM-05:50PM
+The location: 6.422 
+The capacity: 41
+
+Thursday:
+
+The course title: Mechanics of Materials 3.0 
+The lesson type: 1L
+The course day in weekend: R
+The Professors are: Serik Khairaliyev, Didier Talamona, Tair Askar 
+The time is: 11:00AM-12:50PM
+The location: 3.220(ext.block 
+The capacity: 82
+
+The course title: Sensors and Actuators 3.0 
+The lesson type: 2T
+The course day in weekend: R
+The Professors are: Nazim Mir-Nasiri, Kassen Dautov 
+The time is: 09:00AM-10:50AM
+The location: 3.221(ext.block 
+The capacity: 41
+
+Friday:
+
+The course title: Computer Aided Engineering 3.0 
+The lesson type: 1L
+The course day in weekend: F
+The Professors are: Yerkin Abdildin, Aldiyar Kakimzhan 
+The time is: 04:00PM-05:50PM
+The location: 6.522 
+The capacity: 45
+
+The course title: Mechanics of Materials 3.0 
+The lesson type: 3Lb
+The course day in weekend: F
+The Professors are: Serik Khairaliyev, Didier Talamona, Tair Askar 
+The time is: 11:00AM-12:50PM
+The location: 6.307 
+The capacity: 24
+
+The course title: Mechanics of Materials 3.0 
+The lesson type: 1T
+The course day in weekend: F
+The Professors are: Serik Khairaliyev, Didier Talamona, Tair Askar 
+The time is: 02:00PM-03:50PM
+The location: 3.221(ext.block 
+The capacity: 45
+Group 2:
+
+Monday:
+
+The course title: Computer Aided Engineering 3.0 
+The lesson type: 1CLb
+The course day in weekend: M
+The Professors are: Yerkin Abdildin, Aldiyar Kakimzhan 
+The time is: 04:00PM-05:50PM
+The location: 6.522 
+The capacity: 45
+
+The course title: Machine Dynamics I 3.0 
+The lesson type: 1L
+The course day in weekend: M
+The Professors are: Evagoras Xydas 
+The time is: 02:00PM-03:50PM
+The location: 3.221(ext.block 
+The capacity: 45
+
+Tuesday:
+
+The course title: Machine Dynamics I 3.0 
+The lesson type: 1T
+The course day in weekend: T
+The Professors are: Evagoras Xydas 
+The time is: 09:00AM-10:50AM
+The location: 3.221(ext.block 
+The capacity: 45
+
+The course title: Engineering Mathematics III 3.0 
+The lesson type: 2L
+The course day in weekend: T
+The Professors are: Desmond Adair, Maxim Lu, Alima Tazabekova 
+The time is: 11:00AM-12:50PM
+The location: 3.220(ext.block 
+The capacity: 103
+
+Wednesday:
+
+The course title: Machine Dynamics I 3.0 
+The lesson type: 2Lb
+The course day in weekend: W
+The Professors are: Evagoras Xydas 
+The time is: 11:00AM-12:50PM
+The location: 6.407 
+The capacity: 25
+
+The course title: Sensors and Actuators 3.0 
+The lesson type: 1L
+The course day in weekend: W
+The Professors are: Nazim Mir-Nasiri, Kassen Dautov 
+The time is: 02:00PM-03:50PM
+The location: 3.220(ext.block 
+The capacity: 105
+
+The course title: Engineering Mathematics III 3.0 
+The lesson type: 5Lb
+The course day in weekend: W
+The Professors are: Desmond Adair, Maxim Lu, Alima Tazabekova 
+The time is: 04:00PM-05:50PM
+The location: 6.422 
+The capacity: 41
+
+Thursday:
+
+The course title: Mechanics of Materials 3.0 
+The lesson type: 2Lb
+The course day in weekend: R
+The Professors are: Serik Khairaliyev, Didier Talamona, Tair Askar 
+The time is: 02:00PM-03:50PM
+The location: 6.307 
+The capacity: 24
+
+The course title: Sensors and Actuators 3.0 
+The lesson type: 3Lb
+The course day in weekend: R
+The Professors are: Nazim Mir-Nasiri, Kassen Dautov 
+The time is: 02:00PM-03:50PM
+The location: 6.427 
+The capacity: 31
+
+The course title: Mechanics of Materials 3.0 
+The lesson type: 1L
+The course day in weekend: R
+The Professors are: Serik Khairaliyev, Didier Talamona, Tair Askar 
+The time is: 11:00AM-12:50PM
+The location: 3.220(ext.block 
+The capacity: 82
+
+The course title: Sensors and Actuators 3.0 
+The lesson type: 2T
+The course day in weekend: R
+The Professors are: Nazim Mir-Nasiri, Kassen Dautov 
+The time is: 09:00AM-10:50AM
+The location: 3.221(ext.block 
+The capacity: 41
+
+Friday:
+
+The course title: Computer Aided Engineering 3.0 
+The lesson type: 1L
+The course day in weekend: F
+The Professors are: Yerkin Abdildin, Aldiyar Kakimzhan 
+The time is: 04:00PM-05:50PM
+The location: 6.522 
+The capacity: 45
+
+The course title: Mechanics of Materials 3.0 
+The lesson type: 1T
+The course day in weekend: F
+The Professors are: Serik Khairaliyev, Didier Talamona, Tair Askar 
+The time is: 02:00PM-03:50PM
+The location: 3.221(ext.block 
+The capacity: 45
+
+SCHEDULE FOR MECHANICAL MAJOR, 3rd YEAR STUDENTS:
+Group 1:
+
+Monday:
+
+The course title: Machine Dynamics II 3.0 
+The lesson type: 1Lb
+The course day in weekend: M
+The Professors are: Didier Talamona, Tair Askar 
+The time is: 02:00PM-03:50PM
+The location: 6.112 
+The capacity: 20
+
+The course title: Machine Design 3.0 
+The lesson type: 1T
+The course day in weekend: M
+The Professors are: Christos Spitas 
+The time is: 09:00AM-10:50AM
+The location: 3.303 
+The capacity: 40
+
+The course title: Project Management 3.0 
+The lesson type: 1L
+The course day in weekend: M
+The Professors are: Serik Tokbolat, Abid Nadeem 
+The time is: 11:00AM-12:50PM
+The location: Orange 
+The capacity: 160
+
+Tuesday:
+
+The course title: Project Management 3.0 
+The lesson type: 2T
+The course day in weekend: T
+The Professors are: Serik Tokbolat, Md Hossain, Ferhat Karaca 
+The time is: 09:00AM-10:50AM
+The location: 3.316 
+The capacity: 40
+
+The course title: Machine Dynamics II 3.0 
+The lesson type: 1L
+The course day in weekend: T
+The Professors are: Didier Talamona, Tair Askar 
+The time is: 02:00PM-03:50PM
+The location: 3.303 
+The capacity: 40
+
+The course title: Machine Dynamics II 3.0 
+The lesson type: 1T
+The course day in weekend: T
+The Professors are: Didier Talamona, Tair Askar 
+The time is: 04:00PM-05:50PM
+The location: 3.303 
+The capacity: 40
+
+Wednesday:
+
+The course title: Advanced Control Systems 3.0 
+The lesson type: 1Lb
+The course day in weekend: W
+The Professors are: Md Ali, Evagoras Xydas 
+The time is: 02:00PM-03:50PM
+The location: 6.327 
+The capacity: 20
+
+The course title: Heat Transfer 3.0 
+The lesson type: 1L
+The course day in weekend: W
+The Professors are: Maxime Mussard, Chingis Kharmyssov 
+The time is: 11:00AM-12:50PM
+The location: 3.303 
+The capacity: 40
+
+Thursday:
+
+The course title: Heat Transfer 3.0 
+The lesson type: 1Lb
+The course day in weekend: R
+The Professors are: Maxime Mussard, Chingis Kharmyssov 
+The time is: 11:00AM-12:50PM
+The location: 6.307 
+The capacity: 20
+
+The course title: Machine Design 3.0 
+The lesson type: 1Lb
+The course day in weekend: R
+The Professors are: Christos Spitas 
+The time is: 04:00PM-05:50PM
+The location: 3.303 
+The capacity: 40
+
+The course title: Advanced Control Systems 3.0 
+The lesson type: 1L
+The course day in weekend: R
+The Professors are: Md Ali, Evagoras Xydas 
+The time is: 02:00PM-03:50PM
+The location: 3.303 
+The capacity: 40
+
+Friday:
+
+The course title: Machine Design 3.0 
+The lesson type: 1L
+The course day in weekend: F
+The Professors are: Christos Spitas 
+The time is: 09:00AM-10:50AM
+The location: 3.303 
+The capacity: 40
+
+The course title: Heat Transfer 3.0 
+The lesson type: 1T
+The course day in weekend: F
+The Professors are: Maxime Mussard, Chingis Kharmyssov 
+The time is: 11:00AM-12:50PM
+The location: 3.303 
+The capacity: 40
+Group 2:
+
+Monday:
+
+The course title: Machine Design 3.0 
+The lesson type: 1T
+The course day in weekend: M
+The Professors are: Christos Spitas 
+The time is: 09:00AM-10:50AM
+The location: 3.303 
+The capacity: 40
+
+The course title: Project Management 3.0 
+The lesson type: 1L
+The course day in weekend: M
+The Professors are: Serik Tokbolat, Abid Nadeem 
+The time is: 11:00AM-12:50PM
+The location: Orange 
+The capacity: 160
+
+Tuesday:
+
+The course title: Machine Dynamics II 3.0 
+The lesson type: 2Lb
+The course day in weekend: T
+The Professors are: Didier Talamona, Tair Askar 
+The time is: 11:00AM-12:50PM
+The location: 6.112 
+The capacity: 20
+
+The course title: Machine Dynamics II 3.0 
+The lesson type: 1L
+The course day in weekend: T
+The Professors are: Didier Talamona, Tair Askar 
+The time is: 02:00PM-03:50PM
+The location: 3.303 
+The capacity: 40
+
+The course title: Machine Dynamics II 3.0 
+The lesson type: 1T
+The course day in weekend: T
+The Professors are: Didier Talamona, Tair Askar 
+The time is: 04:00PM-05:50PM
+The location: 3.303 
+The capacity: 40
+
+Wednesday:
+
+The course title: Heat Transfer 3.0 
+The lesson type: 1L
+The course day in weekend: W
+The Professors are: Maxime Mussard, Chingis Kharmyssov 
+The time is: 11:00AM-12:50PM
+The location: 3.303 
+The capacity: 40
+
+Thursday:
+
+The course title: Machine Design 3.0 
+The lesson type: 1Lb
+The course day in weekend: R
+The Professors are: Christos Spitas 
+The time is: 04:00PM-05:50PM
+The location: 3.303 
+The capacity: 40
+
+The course title: Advanced Control Systems 3.0 
+The lesson type: 1L
+The course day in weekend: R
+The Professors are: Md Ali, Evagoras Xydas 
+The time is: 02:00PM-03:50PM
+The location: 3.303 
+The capacity: 40
+
+Friday:
+
+The course title: Machine Design 3.0 
+The lesson type: 1L
+The course day in weekend: F
+The Professors are: Christos Spitas 
+The time is: 09:00AM-10:50AM
+The location: 3.303 
+The capacity: 40
+
+The course title: Heat Transfer 3.0 
+The lesson type: 2Lb
+The course day in weekend: F
+The Professors are: Maxime Mussard, Chingis Kharmyssov 
+The time is: 02:00PM-03:50PM
+The location: 6.307 
+The capacity: 20
+
+The course title: Advanced Control Systems 3.0 
+The lesson type: 2Lb
+The course day in weekend: F
+The Professors are: Md Ali, Evagoras Xydas 
+The time is: 02:00PM-03:50PM
+The location: 6.327 
+The capacity: 20
+
+The course title: Heat Transfer 3.0 
+The lesson type: 1T
+The course day in weekend: F
+The Professors are: Maxime Mussard, Chingis Kharmyssov 
+The time is: 11:00AM-12:50PM
+The location: 3.303 
+The capacity: 40
+
+SCHEDULE FOR MECHANICAL MAJOR, 4th YEAR STUDENTS:
+Group 1:
+
+Monday:
+
+The course title: Aerodynamics 3.0 
+The lesson type: 1L
+The course day in weekend: M
+The Professors are: Yong Zhao 
+The time is: 04:00PM-05:50PM
+The location: 3.303 
+The capacity: 20
+
+The course title: Computer Aided Geometric Design 3.0 
+The lesson type: 1L
+The course day in weekend: M
+The Professors are: Konstantinos Kostas 
+The time is: 11:00AM-12:50PM
+The location: 3.303 
+The capacity: 20
+
+The course title: Feasibility Analysis of Clean Energy Technologies 3.0 
+The lesson type: 1L
+The course day in weekend: M
+The Professors are: Luis Rojas, Ulanbek Auyeskhan 
+The time is: 09:00AM-10:50AM
+The location: 3.217(ext.block 
+The capacity: 20
+
+Tuesday:
+
+The course title: Computer Aided Geometric Design 3.0 
+The lesson type: 1Lb
+The course day in weekend: T
+The Professors are: Konstantinos Kostas 
+The time is: 04:00PM-05:50PM
+The location: 6.422 
+The capacity: 20
+
+The course title: Capstone project 1 3.0 
+The lesson type: 1L
+The course day in weekend: T
+The Professors are: Christos Spitas, Talgat Urtambayev 
+The time is: 02:00PM-03:50PM
+The location: 3.316 
+The capacity: 40
+
+Wednesday:
+
+The course title: Heat Transfer 3.0 
+The lesson type: 1L
+The course day in weekend: W
+The Professors are: Maxime Mussard, Chingis Kharmyssov 
+The time is: 11:00AM-12:50PM
+The location: 3.303 
+The capacity: 40
+
+Thursday:
+
+The course title: Heat Transfer 3.0 
+The lesson type: 1Lb
+The course day in weekend: R
+The Professors are: Maxime Mussard, Chingis Kharmyssov 
+The time is: 11:00AM-12:50PM
+The location: 6.307 
+The capacity: 20
+
+The course title: Feasibility Analysis of Clean Energy Technologies 3.0 
+The lesson type: 1CLb
+The course day in weekend: R
+The Professors are: Luis Rojas 
+The time is: 04:00PM-05:50PM
+The location: 3.217(ext.block 
+The capacity: 20
+
+Friday:
+
+The course title: Aerodynamics 3.0 
+The lesson type: 1T
+The course day in weekend: F
+The Professors are: Yong Zhao 
+The time is: 02:00PM-03:50PM
+The location: 3.303 
+The capacity: 20
+
+The course title: Heat Transfer 3.0 
+The lesson type: 2Lb
+The course day in weekend: F
+The Professors are: Maxime Mussard, Chingis Kharmyssov 
+The time is: 02:00PM-03:50PM
+The location: 6.307 
+The capacity: 20
+
+The course title: Heat Transfer 3.0 
+The lesson type: 1T
+The course day in weekend: F
+The Professors are: Maxime Mussard, Chingis Kharmyssov 
+The time is: 11:00AM-12:50PM
+The location: 3.303 
+The capacity: 40

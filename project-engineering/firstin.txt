@@ -1,0 +1,250 @@
+BENG 117 1T Engineering
+Mechanics 3.0 6 04-SEP-17 24-NOV-17 M 11:00 AM-12:50 PM 47 49
+Anatoli Vakhguelt,
+Talgat Urtambayev,
+Mert Guney
+3.302 - cap:80
+BENG 117 2T Engineering
+Mechanics 3.0 6 04-SEP-17 24-NOV-17 T 04:00 PM-05:50 PM 45 49
+Anatoli Vakhguelt,
+Talgat Urtambayev,
+Mert Guney
+3.302 - cap:80
+BENG 117 3T Engineering
+Mechanics 3.0 6 04-SEP-17 24-NOV-17 W 11:00 AM-12:50 PM 47 49
+Anatoli Vakhguelt,
+Talgat Urtambayev,
+Mert Guney
+3.302 - cap:80
+BENG 117 4T Engineering
+Mechanics 3.0 6 04-SEP-17 24-NOV-17 R 04:00 PM-05:50 PM 46 49
+Anatoli Vakhguelt,
+Talgat Urtambayev,
+Mert Guney
+3.302 - cap:80
+BENG 117 5T Engineering
+Mechanics 3.0 6 04-SEP-17 24-NOV-17 F 11:00 AM-12:50 PM 47 49
+Anatoli Vakhguelt,
+Talgat Urtambayev,
+Mert Guney
+3.302 - cap:80
+BENG 117 1L Engineering
+Mechanics 3.0 6 04-SEP-17 24-NOV-17 T 02:00 PM-03:50 PM 232 245
+Anatoli Vakhguelt,
+Talgat Urtambayev,
+Mert Guney
+Orange Hall -
+cap:450
+BENG 124 1Lb Engineering
+Mathematics I 3.0 6 04-SEP-17 24-NOV-17 M 02:00 PM-03:50 PM 47 49
+Damira
+Pernebayeva,
+Vasileios Zarikas,
+Tair Askar, Sung
+Moon
+6.522 - cap:48
+BENG 124 2Lb Engineering
+Mathematics I 3.0 6 04-SEP-17 24-NOV-17 T 04:00 PM-05:50 PM 47 49
+Damira
+Pernebayeva,
+Vasileios Zarikas,
+Tair Askar, Sung
+Moon
+6.522 - cap:48
+BENG 124 3Lb Engineering
+Mathematics I 3.0 6 04-SEP-17 24-NOV-17 W 04:00 PM-05:50 PM 47 49
+Damira
+Pernebayeva,
+Vasileios Zarikas,
+Tair Askar, Sung
+Moon
+6.522 - cap:48
+BENG 124 4Lb Engineering
+Mathematics I 3.0 6 04-SEP-17 24-NOV-17 R 04:00 PM-05:50 PM 48 49
+Damira
+Pernebayeva,
+Vasileios Zarikas,
+Tair Askar, Sung
+Moon
+6.522 - cap:48
+BENG 124 5Lb Engineering
+Mathematics I 3.0 6 04-SEP-17 24-NOV-17 F 11:00 AM-12:50 PM 47 49
+Damira
+Pernebayeva,
+Vasileios Zarikas,
+Tair Askar, Sung
+Moon
+6.522 - cap:48
+BENG 124 1L Engineering
+Mathematics I 3.0 6 04-SEP-17 24-NOV-17 W 09:00 AM-10:50 AM 236 245
+Damira
+Pernebayeva,
+Vasileios Zarikas,
+Tair Askar, Sung
+Moon
+Orange Hall -
+cap:450
+BENG 145 1L
+Occupal &
+Environment
+Health and
+Safety
+3.0 6 04-SEP-17 24-NOV-17 M 09:00 AM-10:50 AM 232 245
+Assiya
+Yermukhambetova,
+Boris Golman,
+Ming Yang
+Orange Hall -
+cap:450
+BENG 145 1T
+Occupal &
+Environment
+Health and
+Safety
+3.0 6 04-SEP-17 24-NOV-17 M 11:00 AM-12:50 PM 46 49
+Assiya
+Yermukhambetova,
+Boris Golman,
+Ming Yang
+3.223(ext.block
+3) - cap:60
+BENG 145 2T
+Occupal &
+Environment
+Health and
+Safety
+3.0 6 04-SEP-17 24-NOV-17 T 04:00 PM-05:50 PM 47 49
+Assiya
+Yermukhambetova,
+Boris Golman,
+Ming Yang
+3.223(ext.block
+3) - cap:60
+BENG 145 3T
+Occupal &
+Environment
+Health and
+Safety
+3.0 6 04-SEP-17 24-NOV-17 W 11:00 AM-12:50 PM 47 49
+Assiya
+Yermukhambetova,
+Boris Golman,
+Ming Yang
+3.223(ext.block
+3) - cap:60
+BENG 145 4T
+Occupal &
+Environment
+Health and
+Safety
+3.0 6 04-SEP-17 24-NOV-17 R 04:00 PM-05:50 PM 45 49
+Assiya
+Yermukhambetova,
+Boris Golman,
+Ming Yang
+3.223(ext.block
+3) - cap:60
+BENG 145 5T
+Occupal &
+Environment
+Health and
+Safety
+3.0 6 04-SEP-17 24-NOV-17 F 11:00 AM-12:50 PM 47 49
+Assiya
+Yermukhambetova,
+Boris Golman,
+Ming Yang
+3.223(ext.block
+3) - cap:60
+BENG 146 1CLb Programming for
+Engineers 3.0 6 04-SEP-17 24-NOV-17 M 11:00 AM-12:50 PM 45 49
+Meruyert
+Temirbekova,
+Daniyar Bakir,
+Vipin Kizheppatt,
+Aresh Dadlani
+6.522 - cap:48
+BENG 146 2CLb Programming for
+Engineers 3.0 6 04-SEP-17 24-NOV-17 T 11:00 AM-12:50 PM 47 49
+Meruyert
+Temirbekova,
+Daniyar Bakir,
+Vipin Kizheppatt,
+Aresh Dadlani
+6.522 - cap:48
+BENG 146 3CLb Programming for
+Engineers 3.0 6 04-SEP-17 24-NOV-17 W 11:00 AM-12:50 PM 46 49
+Meruyert
+Temirbekova,
+Daniyar Bakir,
+Vipin Kizheppatt,
+Aresh Dadlani
+6.522 - cap:48
+BENG 146 4CLb Programming for
+Engineers 3.0 6 04-SEP-17 24-NOV-17 R 11:00 AM-12:50 PM 47 49
+Meruyert
+Temirbekova,
+Daniyar Bakir,
+Vipin Kizheppatt,
+Aresh Dadlani
+6.522 - cap:48
+BENG 146 5CLb Programming for
+Engineers 3.0 6 04-SEP-17 24-NOV-17 F 02:00 PM-03:50 PM 47 49
+Meruyert
+Temirbekova,
+Daniyar Bakir,
+Vipin Kizheppatt,
+Aresh Dadlani
+6.522 - cap:48
+BENG 146 1L Programming for
+Engineers 3.0 6 04-SEP-17 24-NOV-17 R 02:00 PM-03:50 PM 232 245
+Meruyert
+Temirbekova,
+Daniyar Bakir,
+Vipin Kizheppatt,
+Aresh Dadlani
+Orange Hall -
+cap:450
+BENG 221 1L Engineering
+Materials 3.0 6 04-SEP-17 24-NOV-17 F 09:00 AM-10:50 AM 232 245
+Aigerim
+Mashekova, Asma
+Perveen
+Orange Hall -
+cap:450
+BENG 221 1T Engineering
+Materials 3.0 6 04-SEP-17 24-NOV-17 M 11:00 AM-12:50 PM 47 49
+Aigerim
+Mashekova, Asma
+Perveen
+3.221(ext.block
+3) - cap:53
+BENG 221 2T Engineering
+Materials 3.0 6 04-SEP-17 24-NOV-17 T 04:00 PM-05:50 PM 47 49
+Aigerim
+Mashekova, Asma
+Perveen
+3.221(ext.block
+3) - cap:53
+BENG 221 3T Engineering
+Materials 3.0 6 04-SEP-17 24-NOV-17 W 11:00 AM-12:50 PM 45 49
+Aigerim
+Mashekova, Asma
+Perveen
+3.221(ext.block
+3) - cap:53
+BENG 221 4T Engineering
+Materials 3.0 6 04-SEP-17 24-NOV-17 R 04:00 PM-05:50 PM 47 49
+Aigerim
+Mashekova, Asma
+Perveen
+3.221(ext.block
+3) - cap:53
+BENG 221 5T Engineering
+Materials 3.0 6 04-SEP-17 24-NOV-17 F 11:00 AM-12:50 PM 46 49
+Aigerim
+Mashekova, Asma
+Perveen, Ulanbek
+Auyeskhan
+3.221(ext.block
+3) - cap:53

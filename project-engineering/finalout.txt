@@ -1,0 +1,456 @@
+
+Group 1:
+
+Monday:
+1
+Lecture
+The course title: Occupal & Environment Health and Safety 3.0 
+The course day in weekend: M
+The Professors are: Assiya Yermukhambetova, Boris Golman, Ming Yang 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Mathematics I 3.0 
+The course day in weekend: M
+The Professors are: Damira Pernebayeva, Vasileios Zarikas, Tair Askar, Sung Moon 
+The time is: 02:00PM-03:50PM
+The location: 6.522 
+The capacity: 49
+
+Tuesday:
+1
+Lecture
+The course title: Engineering Mechanics 3.0 
+The course day in weekend: T
+The Professors are: Anatoli Vakhguelt, Talgat Urtambayev, Mert Guney 
+The time is: 02:00PM-03:50PM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Programming for Engineers 3.0 
+The course day in weekend: T
+The Professors are: Meruyert Temirbekova, Daniyar Bakir, Vipin Kizheppatt, Aresh Dadlani 
+The time is: 11:00AM-12:50PM
+The location: 6.522 
+The capacity: 49
+
+Wednesday:
+1
+Lecture
+The course title: Engineering Mathematics I 3.0 
+The course day in weekend: W
+The Professors are: Damira Pernebayeva, Vasileios Zarikas, Tair Askar, Sung Moon 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Materials 3.0 
+The course day in weekend: W
+The Professors are: Aigerim Mashekova, Asma Perveen 
+The time is: 11:00AM-12:50PM
+The location: 3.221(ext.block 
+The capacity: 49
+
+Thursday:
+1
+Lecture
+The course title: Programming for Engineers 3.0 
+The course day in weekend: R
+The Professors are: Meruyert Temirbekova, Daniyar Bakir, Vipin Kizheppatt, Aresh Dadlani 
+The time is: 02:00PM-03:50PM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Mechanics 3.0 
+The course day in weekend: R
+The Professors are: Anatoli Vakhguelt, Talgat Urtambayev, Mert Guney 
+The time is: 04:00PM-05:50PM
+The location: 3.302 
+The capacity: 49
+
+Friday:
+1
+Lecture
+The course title: Engineering Materials 3.0 
+The course day in weekend: F
+The Professors are: Aigerim Mashekova, Asma Perveen 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Occupal & Environment Health and Safety 3.0 
+The course day in weekend: F
+The Professors are: Assiya Yermukhambetova, Boris Golman, Ming Yang 
+The time is: 11:00AM-12:50PM
+The location: 3.223(ext.block 
+The capacity: 49
+Group 2:
+
+Monday:
+1
+Lecture
+The course title: Occupal & Environment Health and Safety 3.0 
+The course day in weekend: M
+The Professors are: Assiya Yermukhambetova, Boris Golman, Ming Yang 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Occupal & Environment Health and Safety 3.0 
+The course day in weekend: M
+The Professors are: Assiya Yermukhambetova, Boris Golman, Ming Yang 
+The time is: 11:00AM-12:50PM
+The location: 3.223(ext.block 
+The capacity: 49
+
+Tuesday:
+1
+Lecture
+The course title: Engineering Mechanics 3.0 
+The course day in weekend: T
+The Professors are: Anatoli Vakhguelt, Talgat Urtambayev, Mert Guney 
+The time is: 02:00PM-03:50PM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Mathematics I 3.0 
+The course day in weekend: T
+The Professors are: Damira Pernebayeva, Vasileios Zarikas, Tair Askar, Sung Moon 
+The time is: 04:00PM-05:50PM
+The location: 6.522 
+The capacity: 49
+
+Wednesday:
+1
+Lecture
+The course title: Engineering Mathematics I 3.0 
+The course day in weekend: W
+The Professors are: Damira Pernebayeva, Vasileios Zarikas, Tair Askar, Sung Moon 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Programming for Engineers 3.0 
+The course day in weekend: W
+The Professors are: Meruyert Temirbekova, Daniyar Bakir, Vipin Kizheppatt, Aresh Dadlani 
+The time is: 11:00AM-12:50PM
+The location: 6.522 
+The capacity: 49
+
+Thursday:
+1
+Lecture
+The course title: Programming for Engineers 3.0 
+The course day in weekend: R
+The Professors are: Meruyert Temirbekova, Daniyar Bakir, Vipin Kizheppatt, Aresh Dadlani 
+The time is: 02:00PM-03:50PM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Materials 3.0 
+The course day in weekend: R
+The Professors are: Aigerim Mashekova, Asma Perveen 
+The time is: 04:00PM-05:50PM
+The location: 3.221(ext.block 
+The capacity: 49
+
+Friday:
+1
+Lecture
+The course title: Engineering Materials 3.0 
+The course day in weekend: F
+The Professors are: Aigerim Mashekova, Asma Perveen 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Mechanics 3.0 
+The course day in weekend: F
+The Professors are: Anatoli Vakhguelt, Talgat Urtambayev, Mert Guney 
+The time is: 11:00AM-12:50PM
+The location: 3.302 
+The capacity: 49
+Group 3:
+
+Monday:
+1
+Lecture
+The course title: Occupal & Environment Health and Safety 3.0 
+The course day in weekend: M
+The Professors are: Assiya Yermukhambetova, Boris Golman, Ming Yang 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Mechanics 3.0 
+The course day in weekend: M
+The Professors are: Anatoli Vakhguelt, Talgat Urtambayev, Mert Guney 
+The time is: 11:00AM-12:50PM
+The location: 3.302 
+The capacity: 49
+
+Tuesday:
+1
+Lecture
+The course title: Engineering Mechanics 3.0 
+The course day in weekend: T
+The Professors are: Anatoli Vakhguelt, Talgat Urtambayev, Mert Guney 
+The time is: 02:00PM-03:50PM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Occupal & Environment Health and Safety 3.0 
+The course day in weekend: T
+The Professors are: Assiya Yermukhambetova, Boris Golman, Ming Yang 
+The time is: 04:00PM-05:50PM
+The location: 3.223(ext.block 
+The capacity: 49
+
+Wednesday:
+1
+Lecture
+The course title: Engineering Mathematics I 3.0 
+The course day in weekend: W
+The Professors are: Damira Pernebayeva, Vasileios Zarikas, Tair Askar, Sung Moon 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Mathematics I 3.0 
+The course day in weekend: W
+The Professors are: Damira Pernebayeva, Vasileios Zarikas, Tair Askar, Sung Moon 
+The time is: 04:00PM-05:50PM
+The location: 6.522 
+The capacity: 49
+
+Thursday:
+1
+Lecture
+The course title: Programming for Engineers 3.0 
+The course day in weekend: R
+The Professors are: Meruyert Temirbekova, Daniyar Bakir, Vipin Kizheppatt, Aresh Dadlani 
+The time is: 02:00PM-03:50PM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Programming for Engineers 3.0 
+The course day in weekend: R
+The Professors are: Meruyert Temirbekova, Daniyar Bakir, Vipin Kizheppatt, Aresh Dadlani 
+The time is: 11:00AM-12:50PM
+The location: 6.522 
+The capacity: 49
+
+Friday:
+1
+Lecture
+The course title: Engineering Materials 3.0 
+The course day in weekend: F
+The Professors are: Aigerim Mashekova, Asma Perveen 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Materials 3.0 
+The course day in weekend: F
+The Professors are: Aigerim Mashekova, Asma Perveen, Ulanbek Auyeskhan 
+The time is: 11:00AM-12:50PM
+The location: 3.221(ext.block 
+The capacity: 49
+Group 4:
+
+Monday:
+1
+Lecture
+The course title: Occupal & Environment Health and Safety 3.0 
+The course day in weekend: M
+The Professors are: Assiya Yermukhambetova, Boris Golman, Ming Yang 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Materials 3.0 
+The course day in weekend: M
+The Professors are: Aigerim Mashekova, Asma Perveen 
+The time is: 11:00AM-12:50PM
+The location: 3.221(ext.block 
+The capacity: 49
+
+Tuesday:
+1
+Lecture
+The course title: Engineering Mechanics 3.0 
+The course day in weekend: T
+The Professors are: Anatoli Vakhguelt, Talgat Urtambayev, Mert Guney 
+The time is: 02:00PM-03:50PM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Mechanics 3.0 
+The course day in weekend: T
+The Professors are: Anatoli Vakhguelt, Talgat Urtambayev, Mert Guney 
+The time is: 04:00PM-05:50PM
+The location: 3.302 
+The capacity: 49
+
+Wednesday:
+1
+Lecture
+The course title: Engineering Mathematics I 3.0 
+The course day in weekend: W
+The Professors are: Damira Pernebayeva, Vasileios Zarikas, Tair Askar, Sung Moon 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Occupal & Environment Health and Safety 3.0 
+The course day in weekend: W
+The Professors are: Assiya Yermukhambetova, Boris Golman, Ming Yang 
+The time is: 11:00AM-12:50PM
+The location: 3.223(ext.block 
+The capacity: 49
+
+Thursday:
+1
+Lecture
+The course title: Programming for Engineers 3.0 
+The course day in weekend: R
+The Professors are: Meruyert Temirbekova, Daniyar Bakir, Vipin Kizheppatt, Aresh Dadlani 
+The time is: 02:00PM-03:50PM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Mathematics I 3.0 
+The course day in weekend: R
+The Professors are: Damira Pernebayeva, Vasileios Zarikas, Tair Askar, Sung Moon 
+The time is: 04:00PM-05:50PM
+The location: 6.522 
+The capacity: 49
+
+Friday:
+1
+Lecture
+The course title: Engineering Materials 3.0 
+The course day in weekend: F
+The Professors are: Aigerim Mashekova, Asma Perveen 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Programming for Engineers 3.0 
+The course day in weekend: F
+The Professors are: Meruyert Temirbekova, Daniyar Bakir, Vipin Kizheppatt, Aresh Dadlani 
+The time is: 02:00PM-03:50PM
+The location: 6.522 
+The capacity: 49
+Group 5:
+
+Monday:
+1
+Lecture
+The course title: Occupal & Environment Health and Safety 3.0 
+The course day in weekend: M
+The Professors are: Assiya Yermukhambetova, Boris Golman, Ming Yang 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Programming for Engineers 3.0 
+The course day in weekend: M
+The Professors are: Meruyert Temirbekova, Daniyar Bakir, Vipin Kizheppatt, Aresh Dadlani 
+The time is: 11:00AM-12:50PM
+The location: 6.522 
+The capacity: 49
+
+Tuesday:
+1
+Lecture
+The course title: Engineering Mechanics 3.0 
+The course day in weekend: T
+The Professors are: Anatoli Vakhguelt, Talgat Urtambayev, Mert Guney 
+The time is: 02:00PM-03:50PM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Materials 3.0 
+The course day in weekend: T
+The Professors are: Aigerim Mashekova, Asma Perveen 
+The time is: 04:00PM-05:50PM
+The location: 3.221(ext.block 
+The capacity: 49
+
+Wednesday:
+1
+Lecture
+The course title: Engineering Mathematics I 3.0 
+The course day in weekend: W
+The Professors are: Damira Pernebayeva, Vasileios Zarikas, Tair Askar, Sung Moon 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Mechanics 3.0 
+The course day in weekend: W
+The Professors are: Anatoli Vakhguelt, Talgat Urtambayev, Mert Guney 
+The time is: 11:00AM-12:50PM
+The location: 3.302 
+The capacity: 49
+
+Thursday:
+1
+Lecture
+The course title: Programming for Engineers 3.0 
+The course day in weekend: R
+The Professors are: Meruyert Temirbekova, Daniyar Bakir, Vipin Kizheppatt, Aresh Dadlani 
+The time is: 02:00PM-03:50PM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Occupal & Environment Health and Safety 3.0 
+The course day in weekend: R
+The Professors are: Assiya Yermukhambetova, Boris Golman, Ming Yang 
+The time is: 04:00PM-05:50PM
+The location: 3.223(ext.block 
+The capacity: 49
+
+Friday:
+1
+Lecture
+The course title: Engineering Materials 3.0 
+The course day in weekend: F
+The Professors are: Aigerim Mashekova, Asma Perveen 
+The time is: 09:00AM-10:50AM
+The location: Orange 
+The capacity: 245
+2
+Tutorial
+The course title: Engineering Mathematics I 3.0 
+The course day in weekend: F
+The Professors are: Damira Pernebayeva, Vasileios Zarikas, Tair Askar, Sung Moon 
+The time is: 11:00AM-12:50PM
+The location: 6.522 
+The capacity: 49

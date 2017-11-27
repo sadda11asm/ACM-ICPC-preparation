@@ -1,0 +1,671 @@
+SCHEDULE FOR ELECTRICAL MAJOR, 2nd YEAR STUDENTS:
+Group 1:
+
+Monday:
+
+The course title: Signals and Systems 3.0 
+The lesson type: 1Lb
+The course day in weekend: M
+The Professors are: Behrouz Maham, Beibit Abdikenov 
+The time is: 09:00AM-10:50AM
+The location: 6.422 
+The capacity: 35
+
+The course title: Microelectronic Devices and Circuits 3.0 
+The lesson type: 1Lb
+The course day in weekend: M
+The Professors are: Alex James, Irina Dolzhikova 
+The time is: 11:00AM-12:50PM
+The location: 6.427 
+The capacity: 35
+
+The course title: Signals and Systems 3.0 
+The lesson type: 2Lb
+The course day in weekend: M
+The Professors are: Behrouz Maham, Beibit Abdikenov 
+The time is: 02:00PM-03:50PM
+The location: 6.422 
+The capacity: 35
+
+The course title: Signals and Systems 3.0 
+The lesson type: 1L
+The course day in weekend: M
+The Professors are: Behrouz Maham, Beibit Abdikenov 
+The time is: 04:00PM-05:50PM
+The location: 3.302 
+The capacity: 62
+
+Tuesday:
+
+The course title: Signals and Systems 3.0 
+The lesson type: 1T
+The course day in weekend: T
+The Professors are: Behrouz Maham, Beibit Abdikenov 
+The time is: 09:00AM-10:50AM
+The location: 3.302 
+The capacity: 62
+
+Wednesday:
+
+The course title: Engineering Mathematics III 3.0 
+The lesson type: 5Lb
+The course day in weekend: W
+The Professors are: Desmond Adair, Maxim Lu, Alima Tazabekova 
+The time is: 04:00PM-05:50PM
+The location: 6.422 
+The capacity: 41
+
+The course title: Sensors and Actuators 3.0 
+The lesson type: 1T
+The course day in weekend: W
+The Professors are: Nazim Mir-Nasiri, Kassen Dautov 
+The time is: 04:00PM-05:50PM
+The location: 3.220(ext.block 
+The capacity: 62
+
+Thursday:
+
+The course title: Microelectronic Devices and Circuits 3.0 
+The lesson type: 1L
+The course day in weekend: R
+The Professors are: Alex James, Irina Dolzhikova 
+The time is: 11:00AM-12:50PM
+The location: 3.302 
+The capacity: 65
+
+The course title: Sensors and Actuators 3.0 
+The lesson type: 3Lb
+The course day in weekend: R
+The Professors are: Nazim Mir-Nasiri, Kassen Dautov 
+The time is: 02:00PM-03:50PM
+The location: 6.427 
+The capacity: 31
+
+Friday:
+
+The course title: Electronic Engineering Design Principles 3.0 
+The lesson type: 1L
+The course day in weekend: F
+The Professors are: Kamilya Smagulova, Refik Kizilirmak 
+The time is: 02:00PM-03:50PM
+The location: 3.220(ext.block 
+The capacity: 65
+
+The course title: Microelectronic Devices and Circuits 3.0 
+The lesson type: 1T
+The course day in weekend: F
+The Professors are: Alex James, Irina Dolzhikova 
+The time is: 04:00PM-05:50PM
+The location: 3.220(ext.block 
+The capacity: 65
+Group 2:
+
+Monday:
+
+The course title: Signals and Systems 3.0 
+The lesson type: 1Lb
+The course day in weekend: M
+The Professors are: Behrouz Maham, Beibit Abdikenov 
+The time is: 09:00AM-10:50AM
+The location: 6.422 
+The capacity: 35
+
+The course title: Signals and Systems 3.0 
+The lesson type: 2Lb
+The course day in weekend: M
+The Professors are: Behrouz Maham, Beibit Abdikenov 
+The time is: 02:00PM-03:50PM
+The location: 6.422 
+The capacity: 35
+
+The course title: Signals and Systems 3.0 
+The lesson type: 1L
+The course day in weekend: M
+The Professors are: Behrouz Maham, Beibit Abdikenov 
+The time is: 04:00PM-05:50PM
+The location: 3.302 
+The capacity: 62
+
+Tuesday:
+
+The course title: Signals and Systems 3.0 
+The lesson type: 1T
+The course day in weekend: T
+The Professors are: Behrouz Maham, Beibit Abdikenov 
+The time is: 09:00AM-10:50AM
+The location: 3.302 
+The capacity: 62
+
+Wednesday:
+
+The course title: Engineering Mathematics III 3.0 
+The lesson type: 5Lb
+The course day in weekend: W
+The Professors are: Desmond Adair, Maxim Lu, Alima Tazabekova 
+The time is: 04:00PM-05:50PM
+The location: 6.422 
+The capacity: 41
+
+The course title: Sensors and Actuators 3.0 
+The lesson type: 1T
+The course day in weekend: W
+The Professors are: Nazim Mir-Nasiri, Kassen Dautov 
+The time is: 04:00PM-05:50PM
+The location: 3.220(ext.block 
+The capacity: 62
+
+Thursday:
+
+The course title: Microelectronic Devices and Circuits 3.0 
+The lesson type: 2Lb
+The course day in weekend: R
+The Professors are: Alex James, Irina Dolzhikova 
+The time is: 04:00PM-05:50PM
+The location: 6.427 
+The capacity: 35
+
+The course title: Microelectronic Devices and Circuits 3.0 
+The lesson type: 1L
+The course day in weekend: R
+The Professors are: Alex James, Irina Dolzhikova 
+The time is: 11:00AM-12:50PM
+The location: 3.302 
+The capacity: 65
+
+Friday:
+
+The course title: Electronic Engineering Design Principles 3.0 
+The lesson type: 1L
+The course day in weekend: F
+The Professors are: Kamilya Smagulova, Refik Kizilirmak 
+The time is: 02:00PM-03:50PM
+The location: 3.220(ext.block 
+The capacity: 65
+
+The course title: Microelectronic Devices and Circuits 3.0 
+The lesson type: 1T
+The course day in weekend: F
+The Professors are: Alex James, Irina Dolzhikova 
+The time is: 04:00PM-05:50PM
+The location: 3.220(ext.block 
+The capacity: 65
+
+The course title: Sensors and Actuators 3.0 
+The lesson type: 4Lb
+The course day in weekend: F
+The Professors are: Nazim Mir-Nasiri, Kassen Dautov 
+The time is: 11:00AM-12:50PM
+The location: 6.427 
+The capacity: 31
+
+SCHEDULE FOR ELECTRICAL MAJOR, 3rd YEAR STUDENTS:
+Group 1:
+
+Monday:
+
+The course title: Digital Signal and Image Processing 3.0 
+The lesson type: 1CLb
+The course day in weekend: M
+The Professors are: Aigerim Sametkhanova, Muhammad Akhtar 
+The time is: 09:00AM-10:50AM
+The location: 7.322 
+The capacity: 20
+
+The course title: Electromagnetics 3.0 
+The lesson type: 1CLb
+The course day in weekend: M
+The Professors are: Daniele Tosi, Kanat Turebekov 
+The time is: 02:00PM-03:50PM
+The location: 6.408 
+The capacity: 20
+
+The course title: Digital integrated circuits design 3.0 
+The lesson type: 3Lb
+The course day in weekend: M
+The Professors are: Alex James, Olga Krestinskaya, Vipin Kizheppatt 
+The time is: 04:00PM-05:50PM
+The location: 6.427 
+The capacity: 20
+
+The course title: Project Management 3.0 
+The lesson type: 1L
+The course day in weekend: M
+The Professors are: Serik Tokbolat, Abid Nadeem 
+The time is: 11:00AM-12:50PM
+The location: Orange 
+The capacity: 160
+
+Tuesday:
+
+The course title: Digital Signal and Image Processing 3.0 
+The lesson type: 1L
+The course day in weekend: T
+The Professors are: Aigerim Sametkhanova, Muhammad Akhtar 
+The time is: 02:00PM-03:50PM
+The location: 3.223(ext.block 
+The capacity: 55
+
+The course title: Digital integrated circuits design 3.0 
+The lesson type: 1T
+The course day in weekend: T
+The Professors are: Alex James, Olga Krestinskaya, Vipin Kizheppatt 
+The time is: 04:00PM-05:50PM
+The location: 3.224(ext.block 
+The capacity: 55
+
+The course title: Project Management 3.0 
+The lesson type: 1T
+The course day in weekend: T
+The Professors are: Serik Tokbolat, Abid Nadeem 
+The time is: 11:00AM-12:50PM
+The location: 3.221(ext.block 
+The capacity: 55
+
+Wednesday:
+
+The course title: Digital Signal and Image Processing 3.0 
+The lesson type: 1T
+The course day in weekend: W
+The Professors are: Aigerim Sametkhanova, Muhammad Akhtar 
+The time is: 04:00PM-05:50PM
+The location: 3.221(ext.block 
+The capacity: 55
+
+The course title: Electromagnetics 3.0 
+The lesson type: 1L
+The course day in weekend: W
+The Professors are: Daniele Tosi, Kanat Turebekov 
+The time is: 11:00AM-12:50PM
+The location: 3.224(ext.block 
+The capacity: 55
+
+Thursday:
+
+The course title: Electromagnetics 3.0 
+The lesson type: 1T
+The course day in weekend: R
+The Professors are: Daniele Tosi, Kanat Turebekov 
+The time is: 02:00PM-03:50PM
+The location: 3.223(ext.block 
+The capacity: 55
+
+The course title: Power Electronics 3.0 
+The lesson type: 1T
+The course day in weekend: R
+The Professors are: Alexander Ruderman, Yerden Kypshakpayev 
+The time is: 11:00AM-12:50PM
+The location: 3.221(ext.block 
+The capacity: 55
+
+The course title: Power Electronics 3.0 
+The lesson type: 1L
+The course day in weekend: R
+The Professors are: Alexander Ruderman, Yerden Kypshakpayev 
+The time is: 04:00PM-05:50PM
+The location: 3.224(ext.block 
+The capacity: 55
+
+Friday:
+
+The course title: Power Electronics 3.0 
+The lesson type: 3Lb
+The course day in weekend: F
+The Professors are: Alexander Ruderman, Yerden Kypshakpayev 
+The time is: 02:00PM-03:50PM
+The location: 3.132 
+The capacity: 20
+
+The course title: Digital integrated circuits design 3.0 
+The lesson type: 1L
+The course day in weekend: F
+The Professors are: Alex James, Olga Krestinskaya, Vipin Kizheppatt 
+The time is: 11:00AM-12:50PM
+The location: 3.224(ext.block 
+The capacity: 55
+Group 2:
+
+Monday:
+
+The course title: Digital integrated circuits design 3.0 
+The lesson type: 1Lb
+The course day in weekend: M
+The Professors are: Alex James, Olga Krestinskaya, Vipin Kizheppatt 
+The time is: 02:00PM-03:50PM
+The location: 6.427 
+The capacity: 20
+
+The course title: Project Management 3.0 
+The lesson type: 1L
+The course day in weekend: M
+The Professors are: Serik Tokbolat, Abid Nadeem 
+The time is: 11:00AM-12:50PM
+The location: Orange 
+The capacity: 160
+
+Tuesday:
+
+The course title: Digital Signal and Image Processing 3.0 
+The lesson type: 1L
+The course day in weekend: T
+The Professors are: Aigerim Sametkhanova, Muhammad Akhtar 
+The time is: 02:00PM-03:50PM
+The location: 3.223(ext.block 
+The capacity: 55
+
+The course title: Digital integrated circuits design 3.0 
+The lesson type: 1T
+The course day in weekend: T
+The Professors are: Alex James, Olga Krestinskaya, Vipin Kizheppatt 
+The time is: 04:00PM-05:50PM
+The location: 3.224(ext.block 
+The capacity: 55
+
+The course title: Project Management 3.0 
+The lesson type: 1T
+The course day in weekend: T
+The Professors are: Serik Tokbolat, Abid Nadeem 
+The time is: 11:00AM-12:50PM
+The location: 3.221(ext.block 
+The capacity: 55
+
+Wednesday:
+
+The course title: Digital Signal and Image Processing 3.0 
+The lesson type: 2CLb
+The course day in weekend: W
+The Professors are: Aigerim Sametkhanova, Muhammad Akhtar 
+The time is: 09:00AM-10:50AM
+The location: 7.322 
+The capacity: 20
+
+The course title: Electromagnetics 3.0 
+The lesson type: 2CLb
+The course day in weekend: W
+The Professors are: Daniele Tosi, Kanat Turebekov 
+The time is: 02:00PM-03:50PM
+The location: 6.408 
+The capacity: 20
+
+The course title: Power Electronics 3.0 
+The lesson type: 2Lb
+The course day in weekend: W
+The Professors are: Alexander Ruderman, Yerden Kypshakpayev 
+The time is: 02:00PM-03:50PM
+The location: 3.132 
+The capacity: 20
+
+The course title: Digital Signal and Image Processing 3.0 
+The lesson type: 1T
+The course day in weekend: W
+The Professors are: Aigerim Sametkhanova, Muhammad Akhtar 
+The time is: 04:00PM-05:50PM
+The location: 3.221(ext.block 
+The capacity: 55
+
+The course title: Electromagnetics 3.0 
+The lesson type: 1L
+The course day in weekend: W
+The Professors are: Daniele Tosi, Kanat Turebekov 
+The time is: 11:00AM-12:50PM
+The location: 3.224(ext.block 
+The capacity: 55
+
+Thursday:
+
+The course title: Electromagnetics 3.0 
+The lesson type: 1T
+The course day in weekend: R
+The Professors are: Daniele Tosi, Kanat Turebekov 
+The time is: 02:00PM-03:50PM
+The location: 3.223(ext.block 
+The capacity: 55
+
+The course title: Power Electronics 3.0 
+The lesson type: 1T
+The course day in weekend: R
+The Professors are: Alexander Ruderman, Yerden Kypshakpayev 
+The time is: 11:00AM-12:50PM
+The location: 3.221(ext.block 
+The capacity: 55
+
+The course title: Power Electronics 3.0 
+The lesson type: 1L
+The course day in weekend: R
+The Professors are: Alexander Ruderman, Yerden Kypshakpayev 
+The time is: 04:00PM-05:50PM
+The location: 3.224(ext.block 
+The capacity: 55
+
+Friday:
+
+The course title: Digital integrated circuits design 3.0 
+The lesson type: 1L
+The course day in weekend: F
+The Professors are: Alex James, Olga Krestinskaya, Vipin Kizheppatt 
+The time is: 11:00AM-12:50PM
+The location: 3.224(ext.block 
+The capacity: 55
+Group 3:
+
+Monday:
+
+The course title: Power Electronics 3.0 
+The lesson type: 1Lb
+The course day in weekend: M
+The Professors are: Alexander Ruderman, Yerden Kypshakpayev 
+The time is: 02:00PM-03:50PM
+The location: 3.132 
+The capacity: 20
+
+The course title: Project Management 3.0 
+The lesson type: 1L
+The course day in weekend: M
+The Professors are: Serik Tokbolat, Abid Nadeem 
+The time is: 11:00AM-12:50PM
+The location: Orange 
+The capacity: 160
+
+Tuesday:
+
+The course title: Digital Signal and Image Processing 3.0 
+The lesson type: 1L
+The course day in weekend: T
+The Professors are: Aigerim Sametkhanova, Muhammad Akhtar 
+The time is: 02:00PM-03:50PM
+The location: 3.223(ext.block 
+The capacity: 55
+
+The course title: Digital integrated circuits design 3.0 
+The lesson type: 1T
+The course day in weekend: T
+The Professors are: Alex James, Olga Krestinskaya, Vipin Kizheppatt 
+The time is: 04:00PM-05:50PM
+The location: 3.224(ext.block 
+The capacity: 55
+
+The course title: Project Management 3.0 
+The lesson type: 1T
+The course day in weekend: T
+The Professors are: Serik Tokbolat, Abid Nadeem 
+The time is: 11:00AM-12:50PM
+The location: 3.221(ext.block 
+The capacity: 55
+
+Wednesday:
+
+The course title: Digital integrated circuits design 3.0 
+The lesson type: 2Lb
+The course day in weekend: W
+The Professors are: Alex James, Olga Krestinskaya, Vipin Kizheppatt 
+The time is: 02:00PM-03:50PM
+The location: 6.427 
+The capacity: 20
+
+The course title: Digital Signal and Image Processing 3.0 
+The lesson type: 1T
+The course day in weekend: W
+The Professors are: Aigerim Sametkhanova, Muhammad Akhtar 
+The time is: 04:00PM-05:50PM
+The location: 3.221(ext.block 
+The capacity: 55
+
+The course title: Electromagnetics 3.0 
+The lesson type: 1L
+The course day in weekend: W
+The Professors are: Daniele Tosi, Kanat Turebekov 
+The time is: 11:00AM-12:50PM
+The location: 3.224(ext.block 
+The capacity: 55
+
+Thursday:
+
+The course title: Electromagnetics 3.0 
+The lesson type: 1T
+The course day in weekend: R
+The Professors are: Daniele Tosi, Kanat Turebekov 
+The time is: 02:00PM-03:50PM
+The location: 3.223(ext.block 
+The capacity: 55
+
+The course title: Power Electronics 3.0 
+The lesson type: 1T
+The course day in weekend: R
+The Professors are: Alexander Ruderman, Yerden Kypshakpayev 
+The time is: 11:00AM-12:50PM
+The location: 3.221(ext.block 
+The capacity: 55
+
+The course title: Power Electronics 3.0 
+The lesson type: 1L
+The course day in weekend: R
+The Professors are: Alexander Ruderman, Yerden Kypshakpayev 
+The time is: 04:00PM-05:50PM
+The location: 3.224(ext.block 
+The capacity: 55
+
+Friday:
+
+The course title: Digital Signal and Image Processing 3.0 
+The lesson type: 3CLb
+The course day in weekend: F
+The Professors are: Aigerim Sametkhanova, Muhammad Akhtar 
+The time is: 09:00AM-10:50AM
+The location: 7.322 
+The capacity: 20
+
+The course title: Electromagnetics 3.0 
+The lesson type: 3CLb
+The course day in weekend: F
+The Professors are: Daniele Tosi, Kanat Turebekov 
+The time is: 02:00PM-03:50PM
+The location: 6.408 
+The capacity: 20
+
+The course title: Digital integrated circuits design 3.0 
+The lesson type: 1L
+The course day in weekend: F
+The Professors are: Alex James, Olga Krestinskaya, Vipin Kizheppatt 
+The time is: 11:00AM-12:50PM
+The location: 3.224(ext.block 
+The capacity: 55
+
+SCHEDULE FOR ELECTRICAL MAJOR, 4th YEAR STUDENTS:
+Group 1:
+
+Monday:
+
+The course title: RF and Microwave Circuit Design 3.0 
+The lesson type: 1L
+The course day in weekend: M
+The Professors are: Grant Ellis, Kanat Turebekov 
+The time is: 11:00AM-12:50PM
+The location: 3.322 
+The capacity: 25
+
+Tuesday:
+
+The course title: Antennas and Propagation 3.0 
+The lesson type: 1L
+The course day in weekend: T
+The Professors are: Carlo Molardi, Kanat Turebekov 
+The time is: 09:00AM-10:50AM
+The location: 3.322 
+The capacity: 20
+
+The course title: Digital Communications 3.0 
+The lesson type: 1L
+The course day in weekend: T
+The Professors are: Sultangali Arzykulov, Theodoros Tsiftsis 
+The time is: 04:00PM-05:50PM
+The location: 3.416 
+The capacity: 31
+
+The course title: Antennas and Propagation 3.0 
+The lesson type: 1Lb
+The course day in weekend: T
+The Professors are: Carlo Molardi, Kanat Turebekov 
+The time is: 02:00PM-03:50PM
+The location: 6.408 
+The capacity: 20
+
+Wednesday:
+
+The course title: High Voltage Engineering 3.0 
+The lesson type: 1L
+The course day in weekend: W
+The Professors are: Mehdi Bagheri, Ainur Rakhymbay 
+The time is: 02:00PM-03:50PM
+The location: 3.317 
+The capacity: 30
+
+The course title: RF and Microwave Circuit Design 3.0 
+The lesson type: 1T
+The course day in weekend: W
+The Professors are: Grant Ellis, Kanat Turebekov 
+The time is: 09:00AM-10:50AM
+The location: 3.317 
+The capacity: 25
+
+Thursday:
+
+The course title: Antennas and Propagation 3.0 
+The lesson type: 1T
+The course day in weekend: R
+The Professors are: Carlo Molardi, Kanat Turebekov 
+The time is: 09:00AM-10:50AM
+The location: 3.322 
+The capacity: 20
+
+The course title: High Voltage Engineering 3.0 
+The lesson type: 1Lb
+The course day in weekend: R
+The Professors are: Mehdi Bagheri, Ainur Rakhymbay 
+The time is: 02:00PM-03:50PM
+The location: 3.132 
+The capacity: 30
+
+The course title: High Voltage Engineering 3.0 
+The lesson type: 1T
+The course day in weekend: R
+The Professors are: Mehdi Bagheri, Ainur Rakhymbay 
+The time is: 11:00AM-12:50PM
+The location: 3.224(ext.block 
+The capacity: 30
+
+Friday:
+
+The course title: Digital Communications 3.0 
+The lesson type: 1CLb
+The course day in weekend: F
+The Professors are: Sultangali Arzykulov, Theodoros Tsiftsis 
+The time is: 09:00AM-10:50AM
+The location: 6.422 
+The capacity: 31
+
+The course title: RF and Microwave Circuit Design 3.0 
+The lesson type: 1Lb
+The course day in weekend: F
+The Professors are: Grant Ellis, Kanat Turebekov 
+The time is: 11:00AM-12:50PM
+The location: 6.422 
+The capacity: 25

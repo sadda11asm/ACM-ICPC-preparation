@@ -1,0 +1,335 @@
+ECHE 126 1T
+Introduction to
+Chemical
+Engineering
+3.0 6 04-SEP-17 24-NOV-17 R 09:00 AM-10:50 AM 28 30
+Moulay-Rachid
+Babaa, Ayana
+Muzdubayeva
+3.303 - cap:40
+ECHE 126 1L
+Introduction to
+Chemical
+Engineering
+3.0 6 04-SEP-17 24-NOV-17 T 11:00 AM-12:50 PM 28 30
+Moulay-Rachid
+Babaa, Ayana
+Muzdubayeva
+3.309 - cap:40
+ECHE 222 1ChLb Chemistry I 3.0 6 04-SEP-17 24-NOV-17 T 02:00 PM-05:50 PM 15 20
+Zhumabay
+Bakenov, Aigerim
+Baimyrza
+3.143 - cap:24
+ECHE 222 2ChLb Chemistry I 3.0 6 04-SEP-17 24-NOV-17 R 02:00 PM-05:50 PM 12 20
+Zhumabay
+Bakenov, Aigerim
+Baimyrza
+3.143 - cap:24
+ECHE 222 1L Chemistry I 3.0 6 04-SEP-17 24-NOV-17 W 02:00 PM-03:50 PM 27 30
+Zhumabay
+Bakenov, Aigerim
+Baimyrza
+3.316 - cap:40
+ECHE 222 1T Chemistry I 3.0 6 04-SEP-17 24-NOV-17 F 04:00 PM-05:50 PM 27 30
+Zhumabay
+Bakenov, Aigerim
+Baimyrza
+3.309 - cap:40
+ECHE 319 1L
+Chemical
+Engineering
+Thermodynamics
+3.0 6 04-SEP-17 24-NOV-17 F 02:00 PM-03:50 PM 27 30 Dhawal Shah, Roza
+Demeisinova 3.309 - cap:40
+ECHE 319 1T
+Chemical
+Engineering
+Thermodynamics
+3.0 6 04-SEP-17 24-NOV-17 M 04:00 PM-05:50 PM 27 30 Dhawal Shah, Roza
+Demeisinova 3.317 - cap:40
+ECHE 333 1Lb Separation
+Processes-I 3.0 6 04-SEP-17 24-NOV-17 R 09:00 AM-12:50 PM 14 20
+Vasileios
+Inglezakis, Almira
+Yagofarova
+6.154 - cap:40
+ECHE 333 1L Separation
+Processes-I 3.0 6 04-SEP-17 24-NOV-17 T 02:00 PM-03:50 PM 14 20
+Vasileios
+Inglezakis, Almira
+Yagofarova
+3.309 - cap:40
+ECHE 333 1T Separation
+Processes-I 3.0 6 04-SEP-17 24-NOV-17 F 04:00 PM-04:50 PM 14 20
+Vasileios
+Inglezakis, Almira
+Yagofarova
+3.317 - cap:40
+ECHE 333 1CLb Separation
+Processes-I 3.0 6 04-SEP-17 24-NOV-17 M 04:00 PM-05:50 PM 14 20
+Vasileios
+Inglezakis, Almira
+Yagofarova
+3.217(ext.block
+3) - cap:28
+ECHE 369 1L Transport
+Phenomena-II 3.0 6 04-SEP-17 24-NOV-17 M 09:00 AM-10:50 AM 14 20 Sayara Saliyeva,
+Sergey Spotar 3.309 - cap:40
+ECHE 369 1T Transport
+Phenomena-II 3.0 6 04-SEP-17 24-NOV-17 R 02:00 PM-03:50 PM 14 20 Sayara Saliyeva,
+Sergey Spotar 3.309 - cap:40
+ECHE 369 1CLb Transport
+Phenomena-II 3.0 6 04-SEP-17 24-NOV-17 T 09:00 AM-10:50 AM 14 20 Sayara Saliyeva,
+Sergey Spotar
+3.217(ext.block
+3) - cap:28
+ECHE 385 1L Research
+Practice 3.0 6 04-SEP-17 24-NOV-17 F 11:00 AM-12:50 PM 14 15 Jorge Ona Ruales,
+Roza Demeisinova 3.309 - cap:40
+ECHE 385 1T Research
+Practice 3.0 6 04-SEP-17 24-NOV-17 T 04:00 PM-05:50 PM 14 15 Jorge Ona Ruales,
+Roza Demeisinova 3.309 - cap:40
+ECHE 418 1L Capstone project
+1 3.0 6 04-SEP-17 24-NOV-17 T 04:00 PM-05:50 PM 26 30
+Moulay-Rachid
+Babaa, Bagdagul
+Dauyeshova
+3.407 - cap:40
+ECHE 418 1CLb Capstone project
+1 3.0 6 04-SEP-17 24-NOV-17 F 09:00 AM-10:50 AM 26 30
+Moulay-Rachid
+Babaa, Bagdagul
+Dauyeshova
+3.217(ext.block
+3) - cap:28
+ECHE 419 1CLb
+Advanced
+Process
+Simulation
+3.0 6 04-SEP-17 24-NOV-17 F 04:00 PM-05:50 PM 24 30
+Torkmahalleh
+Amouei, Aknur
+Baibatyrova
+3.217(ext.block
+3) - cap:28
+ECHE 419 1L
+Advanced
+Process
+Simulation
+3.0 6 04-SEP-17 24-NOV-17 R 11:00 AM-12:50 PM 24 30
+Torkmahalleh
+Amouei, Aknur
+Baibatyrova
+3.217(ext.block
+3) - cap:28
+ECHE 481 1Lb
+Chemical
+Reaction
+Engineering
+3.0 6 04-SEP-17 24-NOV-17 W 02:00 PM-03:50 PM 14 20
+Gulnur
+Kalimuldina,
+Stavros
+Poulopoulos, Elzira
+Kenzhegaliyeva
+6.154 - cap:40
+ECHE 481 1L
+Chemical
+Reaction
+Engineering
+3.0 6 04-SEP-17 24-NOV-17 W 11:00 AM-12:50 PM 14 20
+Gulnur
+Kalimuldina,
+Stavros
+Poulopoulos, Elzira
+Kenzhegaliyeva
+3.309 - cap:40
+ECHE 481 1R
+Chemical
+Reaction
+Engineering
+3.0 6 04-SEP-17 24-NOV-17 F 10:00 AM-10:50 AM 14 20
+Gulnur
+Kalimuldina,
+Stavros
+Poulopoulos, Elzira
+Kenzhegaliyeva
+3.309 - cap:40
+ECHE 481 1CLb
+Chemical
+Reaction
+Engineering
+3.0 6 04-SEP-17 24-NOV-17 F 02:00 PM-03:50 PM 14 20
+Gulnur
+Kalimuldina,
+Stavros
+Poulopoulos, Elzira
+Kenzhegaliyeva
+3.217(ext.block
+3) - cap:28
+ECHE 482 1L
+Computational
+Methods in
+Chemical
+Engineering-II
+3.0 6 04-SEP-17 24-NOV-17 T 09:00 AM-10:50 AM 26 30 Boris Golman,
+Aknur Baibatyrova 3.309 - cap:40
+ECHE 482 1T
+Computational
+Methods in
+Chemical
+Engineering-II
+3.0 6 04-SEP-17 24-NOV-17 W 02:00 PM-03:50 PM 26 30 Boris Golman,
+Aknur Baibatyrova 3.309 - cap:40
+ECHE 482 1CLb
+Computational
+Methods in
+Chemical
+Engineering-II
+3.0 6 04-SEP-17 24-NOV-17 R 09:00 AM-10:50 AM 26 30 Boris Golman,
+Aknur Baibatyrova
+3.217(ext.block
+3) - cap:28
+ECHE 484 1T Multi-Phase
+Flows 3.0 6 04-SEP-17 24-NOV-17 F 11:00 AM-12:50 PM 26 30 Sayara Saliyeva,
+Sergey Spotar 3.316 - cap:40
+ECHE 484 1L Multi-Phase
+Flows 3.0 6 04-SEP-17 24-NOV-17 M 04:00 PM-05:50 PM 26 30 Sayara Saliyeva,
+Sergey Spotar 3.309 - cap:40
+ECHE 484 1CLb Multi-Phase
+Flows 3.0 6 04-SEP-17 24-NOV-17 T 02:00 PM-03:50 PM 26 30 Sayara Saliyeva,
+Sergey Spotar
+3.217(ext.block
+3) - cap:28
+BENG 228 1Lb Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 M 04:00 PM-05:50 PM 30 31
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+6.422 - cap:48
+BENG 228 2Lb Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 T 09:00 AM-10:50 AM 27 26
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+6.422 - cap:48
+BENG 228 3Lb Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 T 02:00 PM-03:50 PM 30 30
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+6.422 - cap:48
+BENG 228 4Lb Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 W 11:00 AM-12:50 PM 31 30
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+6.422 - cap:48
+BENG 228 5Lb Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 W 04:00 PM-05:50 PM 40 41
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+6.422 - cap:48
+BENG 228 6Lb Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 R 09:00 AM-10:50 AM 32 31
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+6.422 - cap:48
+BENG 228 1L Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 M 02:00 PM-03:50 PM 87 97
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+3.220(ext.block
+3) - cap:95
+BENG 228 2L Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 T 11:00 AM-12:50 PM 103 103
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+3.220(ext.block
+3) - cap:95
+BENG 405 2T Project
+Management 3.0 6 04-SEP-17 24-NOV-17 T 09:00 AM-10:50 AM 37 40
+Serik Tokbolat, Md
+Hossain, Ferhat
+Karaca
+3.316 - cap:40
+BENG 405 3T Project
+Management 3.0 6 04-SEP-17 24-NOV-17 T 11:00 AM-12:50 PM 64 70
+Serik Tokbolat, Md
+Hossain, Ferhat
+Karaca
+3.302 - cap:80
+BENG 405 4T Project
+Management 3.0 6 04-SEP-17 24-NOV-17 T 02:00 PM-03:50 PM 52 55 Serik Tokbolat,
+Abid Nadeem 3.302 - cap:80
+BENG 405 6T Project
+Management 3.0 6 04-SEP-17 24-NOV-17 W 04:00 PM-05:50 PM 63 68
+Serik Tokbolat, Md
+Hossain, Ferhat
+Karaca
+3.302 - cap:80
+BENG 405 1L Project
+Management 3.0 6 04-SEP-17 24-NOV-17 M 11:00 AM-12:50 PM 151 160 Serik Tokbolat,
+Abid Nadeem
+Orange Hall -
+cap:450
+BENG 405 2L Project
+Management 3.0 6 04-SEP-17 24-NOV-17 M 02:00 PM-03:50 PM 164 170
+Serik Tokbolat, Md
+Hossain, Ferhat
+Karaca
+Orange Hall -
+cap:450
+BENG 405 1T Project
+Management 3.0 6 04-SEP-17 24-NOV-17 T 11:00 AM-12:50 PM 50 55 Serik Tokbolat,
+Abid Nadeem
+3.221(ext.block
+3) - cap:53
+BENG 405 5T Project
+Management 3.0 6 04-SEP-17 24-NOV-17 W 09:00 AM-10:50 AM 49 50 Serik Tokbolat,
+Abid Nadeem
+3.221(ext.block
+3) - cap:53
+EME 254 1Lb Mechanics of
+Materials 3.0 6 04-SEP-17 24-NOV-17 W 11:00 AM-12:50 PM 27 30
+Serik Khairaliyev,
+Didier Talamona,
+Tair Askar
+6.307 - cap:28
+EME 254 2Lb Mechanics of
+Materials 3.0 6 04-SEP-17 24-NOV-17 R 02:00 PM-03:50 PM 18 24
+Serik Khairaliyev,
+Didier Talamona,
+Tair Askar
+6.307 - cap:28
+EME 254 3Lb Mechanics of
+Materials 3.0 6 04-SEP-17 24-NOV-17 F 11:00 AM-12:50 PM 22 24
+Serik Khairaliyev,
+Didier Talamona,
+Tair Askar
+6.307 - cap:28
+EME 254 2T Mechanics of
+Materials 3.0 6 04-SEP-17 24-NOV-17 W 04:00 PM-05:50 PM 27 30
+Serik Khairaliyev,
+Didier Talamona,
+Tair Askar
+3.303 - cap:40
+EME 254 1L Mechanics of
+Materials 3.0 6 04-SEP-17 24-NOV-17 R 11:00 AM-12:50 PM 67 82
+Serik Khairaliyev,
+Didier Talamona,
+Tair Askar
+3.220(ext.block
+3) - cap:95
+EME 254 1T Mechanics of
+Materials 3.0 6 04-SEP-17 24-NOV-17 F 02:00 PM-03:50 PM 40 45
+Serik Khairaliyev,
+Didier Talamona,
+Tair Askar
+3.221(ext.block
+3) - cap:53

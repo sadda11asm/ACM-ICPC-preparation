@@ -1,0 +1,459 @@
+EEE 212 1Lb Signals and
+Systems 3.0 6 04-SEP-17 24-NOV-17 M 09:00 AM-10:50 AM 32 35 Behrouz Maham,
+Beibit Abdikenov 6.422 - cap:48
+EEE 212 2Lb Signals and
+Systems 3.0 6 04-SEP-17 24-NOV-17 M 02:00 PM-03:50 PM 31 35 Behrouz Maham,
+Beibit Abdikenov 6.422 - cap:48
+EEE 212 1L Signals and
+Systems 3.0 6 04-SEP-17 24-NOV-17 M 04:00 PM-05:50 PM 63 62 Behrouz Maham,
+Beibit Abdikenov 3.302 - cap:80
+EEE 212 1T Signals and
+Systems 3.0 6 04-SEP-17 24-NOV-17 T 09:00 AM-10:50 AM 63 62 Behrouz Maham,
+Beibit Abdikenov 3.302 - cap:80
+EEE 238 1CLb
+Digital Signal
+and Image
+Processing
+3.0 6 04-SEP-17 24-NOV-17 M 09:00 AM-10:50 AM 17 20
+Aigerim
+Sametkhanova,
+Muhammad Akhtar
+7.322 - cap:25
+EEE 238 2CLb
+Digital Signal
+and Image
+Processing
+3.0 6 04-SEP-17 24-NOV-17 W 09:00 AM-10:50 AM 18 20
+Aigerim
+Sametkhanova,
+Muhammad Akhtar
+7.322 - cap:25
+EEE 238 3CLb
+Digital Signal
+and Image
+Processing
+3.0 6 04-SEP-17 24-NOV-17 F 09:00 AM-10:50 AM 16 20
+Aigerim
+Sametkhanova,
+Muhammad Akhtar
+7.322 - cap:25
+EEE 238 1T
+Digital Signal
+and Image
+Processing
+3.0 6 04-SEP-17 24-NOV-17 W 04:00 PM-05:50 PM 51 55
+Aigerim
+Sametkhanova,
+Muhammad Akhtar
+3.221(ext.block
+3) - cap:53
+EEE 238 1L
+Digital Signal
+and Image
+Processing
+3.0 6 04-SEP-17 24-NOV-17 T 02:00 PM-03:50 PM 51 55
+Aigerim
+Sametkhanova,
+Muhammad Akhtar
+3.223(ext.block
+3) - cap:60
+EEE 250 1Lb
+Microelectronic
+Devices and
+Circuits
+3.0 6 04-SEP-17 24-NOV-17 M 11:00 AM-12:50 PM 31 35 Alex James, Irina
+Dolzhikova 6.427 - cap:40
+EEE 250 2Lb
+Microelectronic
+Devices and
+Circuits
+3.0 6 04-SEP-17 24-NOV-17 R 04:00 PM-05:50 PM 32 35 Alex James, Irina
+Dolzhikova 6.427 - cap:40
+EEE 250 1L
+Microelectronic
+Devices and
+Circuits
+3.0 6 04-SEP-17 24-NOV-17 R 11:00 AM-12:50 PM 63 65 Alex James, Irina
+Dolzhikova 3.302 - cap:80
+EEE 250 1T
+Microelectronic
+Devices and
+Circuits
+3.0 6 04-SEP-17 24-NOV-17 F 04:00 PM-05:50 PM 63 65 Alex James, Irina
+Dolzhikova
+3.220(ext.block
+3) - cap:95
+EEE 251 1Lb
+Electronic
+Engineering
+Design Principles
+3.0 6 04-SEP-17 24-NOV-17 R 02:00 PM-03:50 PM 31 35
+Kamilya
+Smagulova, Refik
+Kizilirmak
+6.408 - cap:30
+EEE 251 2Lb
+Electronic
+Engineering
+Design Principles
+3.0 6 04-SEP-17 24-NOV-17 T 04:00 PM-05:50 PM 32 35
+Kamilya
+Smagulova, Refik
+Kizilirmak
+6.408 - cap:30
+EEE 251 1L
+Electronic
+Engineering
+Design Principles
+3.0 6 04-SEP-17 24-NOV-17 F 02:00 PM-03:50 PM 63 65
+Kamilya
+Smagulova, Refik
+Kizilirmak
+3.220(ext.block
+3) - cap:95
+EEE 342 1CLb Electromagnetics 3.0 6 04-SEP-17 24-NOV-17 M 02:00 PM-03:50 PM 16 20 Daniele Tosi,
+Kanat Turebekov 6.408 - cap:30
+EEE 342 2CLb Electromagnetics 3.0 6 04-SEP-17 24-NOV-17 W 02:00 PM-03:50 PM 17 20 Daniele Tosi,
+Kanat Turebekov 6.408 - cap:30
+EEE 342 3CLb Electromagnetics 3.0 6 04-SEP-17 24-NOV-17 F 02:00 PM-03:50 PM 17 20 Daniele Tosi,
+Kanat Turebekov 6.408 - cap:30
+EEE 342 1T Electromagnetics 3.0 6 04-SEP-17 24-NOV-17 R 02:00 PM-03:50 PM 50 55 Daniele Tosi,
+Kanat Turebekov
+3.223(ext.block
+3) - cap:60
+EEE 342 1L Electromagnetics 3.0 6 04-SEP-17 24-NOV-17 W 11:00 AM-12:50 PM 50 55 Daniele Tosi,
+Kanat Turebekov
+3.224(ext.block
+3) - cap:95
+EEE 345 1Lb Power
+Electronics 3.0 6 04-SEP-17 24-NOV-17 M 02:00 PM-03:50 PM 17 20
+Alexander
+Ruderman, Yerden
+Kypshakpayev
+3.132 - cap:24
+EEE 345 2Lb Power
+Electronics 3.0 6 04-SEP-17 24-NOV-17 W 02:00 PM-03:50 PM 16 20
+Alexander
+Ruderman, Yerden
+Kypshakpayev
+3.132 - cap:24
+EEE 345 3Lb Power
+Electronics 3.0 6 04-SEP-17 24-NOV-17 F 02:00 PM-03:50 PM 17 20
+Alexander
+Ruderman, Yerden
+Kypshakpayev
+3.132 - cap:24
+EEE 345 1T Power
+Electronics 3.0 6 04-SEP-17 24-NOV-17 R 11:00 AM-12:50 PM 50 55
+Alexander
+Ruderman, Yerden
+Kypshakpayev
+3.221(ext.block
+3) - cap:53
+EEE 345 1L Power
+Electronics 3.0 6 04-SEP-17 24-NOV-17 R 04:00 PM-05:50 PM 50 55
+Alexander
+Ruderman, Yerden
+Kypshakpayev
+3.224(ext.block
+3) - cap:95
+EEE 382 1L Antennas and
+Propagation 3.0 6 04-SEP-17 24-NOV-17 T 09:00 AM-10:50 AM 19 20 Carlo Molardi,
+Kanat Turebekov 3.322 - cap:40
+EEE 382 1T Antennas and
+Propagation 3.0 6 04-SEP-17 24-NOV-17 R 09:00 AM-10:50 AM 19 20 Carlo Molardi,
+Kanat Turebekov 3.322 - cap:40
+EEE 382 1Lb Antennas and
+Propagation 3.0 6 04-SEP-17 24-NOV-17 T 02:00 PM-03:50 PM 19 20 Carlo Molardi,
+Kanat Turebekov 6.408 - cap:30
+EEE 384 1Lb
+Digital
+integrated
+circuits design
+3.0 6 04-SEP-17 24-NOV-17 M 02:00 PM-03:50 PM 17 20
+Alex James, Olga
+Krestinskaya,
+Vipin Kizheppatt
+6.427 - cap:40
+EEE 384 2Lb
+Digital
+integrated
+circuits design
+3.0 6 04-SEP-17 24-NOV-17 W 02:00 PM-03:50 PM 17 20
+Alex James, Olga
+Krestinskaya,
+Vipin Kizheppatt
+6.427 - cap:40
+EEE 384 3Lb
+Digital
+integrated
+circuits design
+3.0 6 04-SEP-17 24-NOV-17 M 04:00 PM-05:50 PM 16 20
+Alex James, Olga
+Krestinskaya,
+Vipin Kizheppatt
+6.427 - cap:40
+EEE 384 1L
+Digital
+integrated
+circuits design
+3.0 6 04-SEP-17 24-NOV-17 F 11:00 AM-12:50 PM 50 55
+Alex James, Olga
+Krestinskaya,
+Vipin Kizheppatt
+3.224(ext.block
+3) - cap:95
+EEE 384 1T
+Digital
+integrated
+circuits design
+3.0 6 04-SEP-17 24-NOV-17 T 04:00 PM-05:50 PM 50 55
+Alex James, Olga
+Krestinskaya,
+Vipin Kizheppatt
+3.224(ext.block
+3) - cap:95
+EEE 435 1CLb Digital
+Communications 3.0 6 04-SEP-17 24-NOV-17 F 09:00 AM-10:50 AM 28 31
+Sultangali
+Arzykulov,
+Theodoros Tsiftsis
+6.422 - cap:48
+EEE 435 1L Digital
+Communications 3.0 6 04-SEP-17 24-NOV-17 T 04:00 PM-05:50 PM 28 31
+Sultangali
+Arzykulov,
+Theodoros Tsiftsis
+3.416 - cap:40
+EEE 437 1Lb Capstone Project
+1 3.0 6 04-SEP-17 24-NOV-17 S 09:00 AM-10:50 AM 64 65 Alex James,
+Kamilla Aliakhmet
+3.217(ext.block
+3) - cap:28
+EEE 437 1L Capstone Project
+1 3.0 6 04-SEP-17 24-NOV-17 M 09:00 AM-10:50 AM 64 65 Alex James,
+Kamilla Aliakhmet
+3.220(ext.block
+3) - cap:95
+EEE 448 1T
+Power
+Transmission and
+Distribution
+plants
+3.0 6 04-SEP-17 24-NOV-17 F 02:00 PM-03:50 PM 37 40
+Svyatoslav
+Nezhivenko, Mehdi
+Bagheri
+3.302 - cap:80
+EEE 448 1Lb
+Power
+Transmission and
+Distribution
+plants
+3.0 6 04-SEP-17 24-NOV-17 R 04:00 PM-05:50 PM 37 40
+Svyatoslav
+Nezhivenko, Mehdi
+Bagheri
+3.132 - cap:24
+EEE 448 1L
+Power
+Transmission and
+Distribution
+plants
+3.0 6 04-SEP-17 24-NOV-17 W 11:00 AM-12:50 PM 37 40
+Svyatoslav
+Nezhivenko, Mehdi
+Bagheri
+3.415 - cap:40
+EEE 450 1L
+RF and
+Microwave
+Circuit Design
+3.0 6 04-SEP-17 24-NOV-17 M 11:00 AM-12:50 PM 17 25 Grant Ellis, Kanat
+Turebekov 3.322 - cap:40
+EEE 450 1Lb
+RF and
+Microwave
+Circuit Design
+3.0 6 04-SEP-17 24-NOV-17 F 11:00 AM-12:50 PM 17 25 Grant Ellis, Kanat
+Turebekov 6.422 - cap:48
+EEE 450 1T
+RF and
+Microwave
+Circuit Design
+3.0 6 04-SEP-17 24-NOV-17 W 09:00 AM-10:50 AM 17 25 Grant Ellis, Kanat
+Turebekov 3.317 - cap:40
+EEE 451 1L High Voltage
+Engineering 3.0 6 04-SEP-17 24-NOV-17 W 02:00 PM-03:50 PM 33 30 Mehdi Bagheri,
+Ainur Rakhymbay 3.317 - cap:40
+EEE 451 1Lb High Voltage
+Engineering 3.0 6 04-SEP-17 24-NOV-17 R 02:00 PM-03:50 PM 33 30 Mehdi Bagheri,
+Ainur Rakhymbay 3.132 - cap:24
+EEE 451 1T High Voltage
+Engineering 3.0 6 04-SEP-17 24-NOV-17 R 11:00 AM-12:50 PM 33 30 Mehdi Bagheri,
+Ainur Rakhymbay
+3.224(ext.block
+3) - cap:95
+EEE 452 1L Power Systems
+Protection 3.0 6 04-SEP-17 24-NOV-17 T 09:00 AM-10:50 AM 32 30
+Botagoz
+Mirzagalikova,
+Hema Satya
+Venkata Sivanand
+Kumar Nunna
+3.317 - cap:40
+EEE 452 1T Power Systems
+Protection 3.0 6 04-SEP-17 24-NOV-17 R 09:00 AM-10:50 AM 32 30
+Botagoz
+Mirzagalikova,
+Hema Satya
+Venkata Sivanand
+Kumar Nunna
+3.317 - cap:40
+EEE 452 1Lb Power Systems
+Protection 3.0 6 04-SEP-17 24-NOV-17 T 02:00 PM-03:50 PM 32 30
+Botagoz
+Mirzagalikova,
+Hema Satya
+Venkata Sivanand
+Kumar Nunna
+3.132 - cap:24
+EEE 482 1L Mobile
+Communications 3.0 6 04-SEP-17 24-NOV-17 M 04:00 PM-05:50 PM 24 30
+Refik Kizilirmak,
+Nazerke
+Rakhymbayeva
+3.322 - cap:40
+EEE 482 1T Mobile
+Communications 3.0 6 04-SEP-17 24-NOV-17 F 04:00 PM-05:50 PM 24 30
+Refik Kizilirmak,
+Nazerke
+Rakhymbayeva
+3.322 - cap:40
+EEE 482 1Lb Mobile
+Communications 3.0 6 04-SEP-17 24-NOV-17 W 04:00 PM-05:50 PM 24 30
+Refik Kizilirmak,
+Nazerke
+Rakhymbayeva
+3.217(ext.block
+3) - cap:28
+BENG 228 1Lb Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 M 04:00 PM-05:50 PM 30 31
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+6.422 - cap:48
+BENG 228 2Lb Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 T 09:00 AM-10:50 AM 27 26
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+6.422 - cap:48
+BENG 228 3Lb Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 T 02:00 PM-03:50 PM 30 30
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+6.422 - cap:48
+BENG 228 4Lb Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 W 11:00 AM-12:50 PM 31 30
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+6.422 - cap:48
+BENG 228 5Lb Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 W 04:00 PM-05:50 PM 40 41
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+6.422 - cap:48
+BENG 228 6Lb Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 R 09:00 AM-10:50 AM 32 31
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+6.422 - cap:48
+BENG 228 1L Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 M 02:00 PM-03:50 PM 87 97
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+3.220(ext.block
+3) - cap:95
+BENG 228 2L Engineering
+Mathematics III 3.0 6 04-SEP-17 24-NOV-17 T 11:00 AM-12:50 PM 103 103
+Desmond Adair,
+Maxim Lu, Alima
+Tazabekova
+3.220(ext.block
+3) - cap:95
+BENG 405 2T Project
+Management 3.0 6 04-SEP-17 24-NOV-17 T 09:00 AM-10:50 AM 37 40
+Serik Tokbolat, Md
+Hossain, Ferhat
+Karaca
+3.316 - cap:40
+BENG 405 3T Project
+Management 3.0 6 04-SEP-17 24-NOV-17 T 11:00 AM-12:50 PM 64 70
+Serik Tokbolat, Md
+Hossain, Ferhat
+Karaca
+3.302 - cap:80
+BENG 405 4T Project
+Management 3.0 6 04-SEP-17 24-NOV-17 T 02:00 PM-03:50 PM 52 55 Serik Tokbolat,
+Abid Nadeem 3.302 - cap:80
+BENG 405 6T Project
+Management 3.0 6 04-SEP-17 24-NOV-17 W 04:00 PM-05:50 PM 63 68
+Serik Tokbolat, Md
+Hossain, Ferhat
+Karaca
+3.302 - cap:80
+BENG 405 1L Project
+Management 3.0 6 04-SEP-17 24-NOV-17 M 11:00 AM-12:50 PM 151 160 Serik Tokbolat,
+Abid Nadeem
+Orange Hall -
+cap:450
+BENG 405 2L Project
+Management 3.0 6 04-SEP-17 24-NOV-17 M 02:00 PM-03:50 PM 164 170
+Serik Tokbolat, Md
+Hossain, Ferhat
+Karaca
+Orange Hall -
+cap:450
+BENG 405 1T Project
+Management 3.0 6 04-SEP-17 24-NOV-17 T 11:00 AM-12:50 PM 50 55 Serik Tokbolat,
+Abid Nadeem
+3.221(ext.block
+3) - cap:53
+BENG 405 5T Project
+Management 3.0 6 04-SEP-17 24-NOV-17 W 09:00 AM-10:50 AM 49 50 Serik Tokbolat,
+Abid Nadeem
+3.221(ext.block
+3) - cap:53
+BENG 215 1Lb Sensors and
+Actuators 3.0 6 04-SEP-17 24-NOV-17 T 02:00 PM-03:50 PM 18 20 Nazim Mir-Nasiri,
+Kassen Dautov 6.427 - cap:40
+BENG 215 2Lb Sensors and
+Actuators 3.0 6 04-SEP-17 24-NOV-17 W 11:00 AM-12:50 PM 22 21 Nazim Mir-Nasiri,
+Kassen Dautov 6.427 - cap:40
+BENG 215 3Lb Sensors and
+Actuators 3.0 6 04-SEP-17 24-NOV-17 R 02:00 PM-03:50 PM 32 31 Nazim Mir-Nasiri,
+Kassen Dautov 6.427 - cap:40
+BENG 215 4Lb Sensors and
+Actuators 3.0 6 04-SEP-17 24-NOV-17 F 11:00 AM-12:50 PM 31 31 Nazim Mir-Nasiri,
+Kassen Dautov 6.427 - cap:40
+BENG 215 1L Sensors and
+Actuators 3.0 6 04-SEP-17 24-NOV-17 W 02:00 PM-03:50 PM 103 105 Nazim Mir-Nasiri,
+Kassen Dautov
+3.220(ext.block
+3) - cap:95
+BENG 215 1T Sensors and
+Actuators 3.0 6 04-SEP-17 24-NOV-17 W 04:00 PM-05:50 PM 63 62 Nazim Mir-Nasiri,
+Kassen Dautov
+3.220(ext.block
+3) - cap:95
+BENG 215 2T Sensors and
+Actuators 3.0 6 04-SEP-17 24-NOV-17 R 09:00 AM-10:50 AM 40 41 Nazim Mir-Nasiri,
+Kassen Dautov
+3.221(ext.block
+3) - cap:53
